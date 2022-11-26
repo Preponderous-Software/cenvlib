@@ -1,2 +1,2 @@
-﻿# C Project Template
-This is a template for a C project.
+﻿# cenvlib
+C Environment Library -- Provides base structures and functions for simulating virtual worlds. 
